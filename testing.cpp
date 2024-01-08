@@ -3,10 +3,17 @@ using namespace std;
 
 int main()
 {
-    double costPerPerson;
+    int n1, n2;
 
-    cout << "Please enter the cost per person: $";
-    cin >> costPerPerson;
+    cout << "Please enter a number: ";
+    cin >> n1;
+    cout << "Please enter another number: ";
+    cin >> n2;
 
-    return 0;
+    if ((n1 == 1) && (n2 == 1))
+        cout << "Both of the numbers are 1.";
+    else
+        cout << "Neither of the numbers are 1.";
+
+    return 0;    
 }
