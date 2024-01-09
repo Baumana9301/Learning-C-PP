@@ -1,4 +1,5 @@
 //Self-Test 35
+//Flips sign of entered value
 
 #include <iostream>
 using namespace std;
