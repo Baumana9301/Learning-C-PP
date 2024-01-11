@@ -1,4 +1,4 @@
-/* Chapter II Practice Project V - Sphere Volume Given Radius
+/* Chapter II Practice Program V - Sphere Volume Given Radius
 This project calculates the volume of a sphere given its radius.*/
 
 #include <iostream>
